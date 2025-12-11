@@ -20,7 +20,7 @@ from typing import Any, Dict, Iterable, List, Optional, Tuple
 
 import requests
 
-DEFAULT_HOST = "https://bnapi.test.unifonip.no"
+DEFAULT_HOST = "https://bnapi.unifon.no"
 TOKEN_PATH = "token.json"
 
 

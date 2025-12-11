@@ -9,7 +9,7 @@ Note: This sample was written by OpenAI/Codex using gpt-5.1-codex-max, and is on
 - `requests` library (`pip install requests`)
 
 ## Configuration
-- Default API host: `https://bnapi.test.unifonip.no`
+- Default API host: `https://bnapi.unifon.no`
 - Supply credentials via flags or environment variables:
   - Flags: `--client-id`, `--client-secret`, `--grant-type` (defaults to `client_credentials`), `--host`
   - Environment: `UNIFON_CLIENT_ID`, `UNIFON_CLIENT_SECRET`, `UNIFON_GRANT_TYPE`, `UNIFON_HOST`
